@@ -31,9 +31,13 @@
 
 🚫 more info on using badges [here](https://github.com/badges/shields)
 
-## 🚫 3️⃣ About this project
+## 🚫  About this project
 
-You can find the project at [🚫URL NAME GOES HERE](🚫copy and paste URL here).
+1️⃣ You can find the deployed project at [🚫URL NAME GOES HERE](🚫copy and paste URL here).
+
+1️⃣ [Trello Board](🚫add link to trello board here)
+
+1️⃣ [Product Canvas](🚫add link to product canvas here)
 
 🚫 Replace lorem ipsum with a description of your project
 
