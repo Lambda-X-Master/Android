@@ -31,7 +31,7 @@
 
 🚫 more info on using badges [here](https://github.com/badges/shields)
 
-🚫 3️⃣ Add description of project here
+## 🚫 3️⃣ About this project
 
 You can find the project at [🚫URL NAME GOES HERE](🚫copy and paste URL here).
 
