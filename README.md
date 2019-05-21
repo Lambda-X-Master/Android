@@ -36,6 +36,8 @@
 
 1️⃣ [Product Canvas](🚫add link to product canvas here)
 
+1️⃣ [UX Design files](🚫add link to product canvas here) - 🚫 delete if not applicable
+
 🚫 Replace lorem ipsum with a description of your project
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
