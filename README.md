@@ -6,9 +6,6 @@
 
 # 1️⃣ Title of project goes here
 
-
-## Contributors
-
 ## 4️⃣ Contributors
 
 🚫Add contributor info below, make sure add images and edit the social links for each member. Add or delete these place-holders as needed
@@ -46,11 +43,11 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## 2️⃣ Features
 
--   [x] Feature 1
--   [x] Feature 2
--   [x] Feature 3
--   [x] Feature 4
--   [x] Feature 5
+-    Feature 1
+-    Feature 2
+-    Feature 3
+-    Feature 4
+-    Feature 5
 
 ## 2️⃣_Authentication API here_
 
